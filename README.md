@@ -1,6 +1,6 @@
 # nLog
 
-> _Natural Way Of Blogging. By writing politically incorrect things uwu_
+> _Natural Way Of Blogging. By writing politically incorrect things uwu._ Welcome to our cozy corner of the internet! Explore a delightful mix of lighthearted musings, everyday adventures, and insightful reflections on our non-political blog. Join us in celebrating life's simple joys and finding inspiration in the ordinary. Come, unwind, and discover the beauty in simplicity!
 
 # Blog operation
 
@@ -10,6 +10,7 @@
 - [x] Search Post
 - [x] Static Sidebar
 - [x] Static Bottom bar
+- [x] Responsive Design
 - [x] Deployment
 
 ## Try Login `Demo Users`
