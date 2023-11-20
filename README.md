@@ -79,9 +79,9 @@ cd ..
 
 # Important Links
 
-[x] Client Side - [Click Here](https://nlog-blogs-csr.vercel.app/)
-[x] Server Side - [Click Here](https://nlog-blogs-ssr.vercel.app/)
-[x] Figma Template - [Click Here](https://www.figma.com/community/file/1118764549305878223)
+- [x] Client Side - [Click Here](https://nlog-blogs-csr.vercel.app/)
+- [x] Server Side - [Click Here](https://nlog-blogs-ssr.vercel.app/)
+- [x] Figma Template - [Click Here](https://www.figma.com/community/file/1118764549305878223)
 
 # Author
 
